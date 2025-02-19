@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Pleased to meet you! I am Heverton Oliveira, 19 years old. I am currently working as a Support Intern at Jazz Tech, where I am gaining hands-on experience and developing essential technical skills. I am pursuing a degree in Systems Analysis and Development, deepening my knowledge in programming, databases, and software development.</p>
+<p align="left">Pleased to meet you! I am Heverton Oliveira, 19 years old. I am currently working as a Support Intern at Jazz Tech </p>
 
 ###
 
